@@ -12,4 +12,9 @@ Class Main {
   public static int multiply (int c, int d) {
 	  return (c * d);
   }
+
+  public static void printSomething(){
+    System.out.println("(>^_^)>");
+  }
+
 }
