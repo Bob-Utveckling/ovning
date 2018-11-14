@@ -9,4 +9,7 @@ Class Main {
     return a + b;
   }
 
+  public static int multiply (int c, int d) {
+	  return (c * d);
+  }
 }
