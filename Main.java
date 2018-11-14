@@ -9,4 +9,8 @@ Class Main {
     return a + b;
   }
 
+  public static void printSomething(){
+    System.out.println("(>^_^)>");
+  }
+
 }
