@@ -17,6 +17,8 @@ Class Main {
     System.out.println("(>^_^)>");
   }
 
-  blablabla
+   (\__/)
+  (='.'=)
+  (")_(")
 
 }
